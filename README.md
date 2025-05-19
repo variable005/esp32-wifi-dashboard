@@ -13,6 +13,11 @@ A lightweight, modern web dashboard served by an ESP32 showing Wi-Fi signal stre
 - Random Wi-Fi quotes for fun
 
 ---
+## Screenshots
+![Dashboard Light Mode](lightmode.png)  
+![Dashboard Dark Mode](darkmode.png)  
+
+---
 
 ## How to Use
 
